@@ -1,2 +1,3 @@
-Examplework I did in html, css and javascript.
-Possible to see from: https://martinholts.github.io/teeomapidu/
+# WebAppDev-Party-Creator
+
+Schoolwork I created during my Web Application Developer training.
