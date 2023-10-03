@@ -5,4 +5,3 @@ This repository contains a project I created during my Web Application Developer
 ## Access the Project
 
 You can access the project and explore its features here: **[https://martinholts.github.io/WebAppDev-Party-Creator](https://martinholts.github.io/WebAppDev-Party-Creator)**
- 
