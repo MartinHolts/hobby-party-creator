@@ -4,5 +4,8 @@ This repository contains a project I created during my Web Application Developer
 
 ## Access the Project
 
-You can access the project and explore its features here: **[https://martinholts.github.io/WebAppDev-Party-Creator](https://martinholts.github.io/web-dev-school-party-creator-project)**
- 
+You can access the project and explore its features here: **[https://martinholts.github.io/example-work-party-creator/](https://martinholts.github.io/example-work-party-creator/)**
+
+## Images
+
+![image](https://github.com/MartinHolts/example-work-party-creator/assets/16961661/c5d37ede-5869-4a97-90e3-57194cbdef5f)
