@@ -4,7 +4,7 @@ This repository contains a project I created as an example work. The project is 
 
 ## Access the Project
 
-You can access the project and explore its features here: **[https://martinholts.github.io/example-work-party-creator/](https://martinholts.github.io/example-work-party-creator/)**
+You can access the project and explore its features here: **[https://martinholts.github.io/hobby-party-creator/](https://martinholts.github.io/hobby-party-creator/)**
 
 ## Images
 
